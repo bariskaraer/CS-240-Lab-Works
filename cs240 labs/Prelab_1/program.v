@@ -1,0 +1,9 @@
+memory[0] = 32'h80208078;
+memory[1] = 32'h80218079;
+memory[2] = 32'h60218078;
+memory[3] = 32'hc0018086;
+memory[4] = 32'h80208079;
+memory[5] = 32'hd0018000;
+memory[6] = 32'h5;
+memory[120] = 32'h25;
+memory[121] = 32'hdc;
